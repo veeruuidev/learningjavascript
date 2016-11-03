@@ -4,12 +4,12 @@
     ctrls.empTable=document.getElementById("tblEmployee");
 
     var emp = [{
-            empId: 100,
+            empId: 400,
             fName: "Kiran",
             lName: "PVS"
         },
         {
-            empId: 101,
+            empId: 401,
             fName: "Sneha",
             lName: "P"
         }, ];
