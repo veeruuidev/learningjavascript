@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ( function(){
     
     var ctrls={};
